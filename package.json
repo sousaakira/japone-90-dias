@@ -1,0 +1,36 @@
+{
+  "name": "japone-90-dias",
+  "project": "Japonês em 90 dias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.ts",
+  "scripts": {
+    "gulp:media": "cd gulp/media && gulp",
+    "build:all": "npx typedoc && npm run gulp:media",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sousaakira/japone-90-dias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sousaakira/japone-90-dias/issues"
+  },
+  "homepage": "https://github.com/sousaakira/japone-90-dias#readme",
+  "devDependencies": {
+    "@types/shelljs": "^0.8.11",
+    "typedoc": "^0.21.10",
+    "typedoc-plugin-pages": "^1.1.0",
+    "typescript": "^4.7.2"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "typedoc-default-themes": "^0.12.10"
+  },
+  "directories": {
+    "doc": "docs"
+  }
+}

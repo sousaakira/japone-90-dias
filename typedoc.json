@@ -1,0 +1,28 @@
+{
+  "disableSources": false,
+  "entryPoints": ["src/index.ts", "./package.json"],
+  "excludeExternals": false,
+  "excludePrivate": true,
+  "excludeProtected": true,
+  "includeVersion": true,
+  "out": "aulas",
+  "theme": "pages-plugin",
+  "media": "media",
+    "pages": {
+      "groups": [
+        {
+          "title": "Inicio",
+          "pages": [
+            {
+              "title": "Hiragana (ひらがな)",
+              "source": "./src/aulas/hiragana.md"
+            },
+            {
+              "title": "Inicio",
+              "source": "./src/aulas/inicio.md"
+            }
+          ]
+        }
+      ]
+    }
+}
