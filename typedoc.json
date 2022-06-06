@@ -18,6 +18,10 @@
               "source": "./src/aulas/hiragana.md"
             },
             {
+              "title": "Katakana (カタカナ)",
+              "source": "./src/aulas/katakana.md"
+            },
+            {
               "title": "Inicio",
               "source": "./src/aulas/inicio.md"
             }

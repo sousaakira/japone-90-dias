@@ -75,7 +75,7 @@ Hiragana　（ひらがな）
 	<a href="#" onClick="play('ku')" title="ku">く</a>
 </td>
 <td align="center">
-	<a href="#" onClick="play('su')" title="su">る</a>
+	<a href="#" onClick="play('su')" title="su">す</a>
 </td>
 <td align="center">
 	<a href="#" onClick="play('tsu')" title="tsu">つ<a>
@@ -152,4 +152,3 @@ Hiragana　（ひらがな）
 <td></td>
 </tr>
 </tbody></table>
-
