@@ -43,7 +43,10 @@ Katakana　（カタカナ）
 </th>
 </tr>
 </thead>
-<tbody><tr>
+
+<tbody>
+
+<tr>
 <td align="center">
 	<a href="#" onClick="play('i')" title="i" >い</a>
 </td>
@@ -153,3 +156,8 @@ Katakana　（カタカナ）
 <td></td>
 </tr>
 </tbody></table>
+
+
+
+------
+
